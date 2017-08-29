@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mercuryseries/flashy": "^1.0"
+    }
+}
